@@ -1,0 +1,12 @@
+{
+   "name": "pherserk/word",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pherserk\\Word\\" : "src/"
+        }
+    }
+}
+
