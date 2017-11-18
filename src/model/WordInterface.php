@@ -1,4 +1,3 @@
-
 <?php
 
 namespace Pherserk\Word\model;
