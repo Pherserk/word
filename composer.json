@@ -1,12 +1,13 @@
 {
-   "name": "pherserk/word",
+    "name": "pherserk/word",
+    "license": "GPL-3.0",
     "require": {
-        "php": ">=7.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Pherserk\\Word\\" : "src/"
-        }
-    }
+         "php": ">=7.0"
+     },
+     "autoload": {
+         "psr-4": {
+             "Pherserk\\Word\\" : "src/"
+         }
+     }
 }
 
